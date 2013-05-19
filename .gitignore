@@ -11,3 +11,14 @@
 *.lai
 *.la
 *.a
+
+# Dep directory
+/Source/.dep/
+
+*.eep
+*.elf
+*.lss
+*.lst
+*.map
+*.sym
+*.d
